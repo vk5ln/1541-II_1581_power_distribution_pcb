@@ -15,9 +15,9 @@ For the optional Power LED header, resistors and LEDs/cabling, any convenient
 parts can be used so I've not specified exact part numbers. The PCB pads suit
 0805 size SMD resistors.
 
- R1 300R 0805 (2012 metric) (5V Rail)
- R2 1K 0805 (2012 metric) (12V Rail)
- 3 Way 2.54mm header
+R1 300R 0805 (2012 metric)
+R2 1K 0805 (2012 metric)
+3 Way 2.54mm header
 
 I like using the metal cased DIN plugs but feel free to use whatever you can source. The 
 Switchcraft DIN plugs are quite expensive compared to those with plastic covers.
