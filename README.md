@@ -31,11 +31,11 @@ Pin 3 - N/C
 
 Pin 4 - 12V
 
-The pins in a DIN plug aren't really suited for larger conductors. As there is a bit more room in the 4 Pin DIN plugs, I soldered to the side of the pins rather than try to put the conductors inside the pins.
+The pins in a DIN plug aren't really suited to use cables with larger conductors. As there is a bit more room in the 4 Pin DIN plugs, I soldered to the side of the pins rather than try to put the conductors inside the pins.
 
 ![P1030955-1920](https://user-images.githubusercontent.com/9030553/209484639-f71d73de-a762-4fe9-9205-35d2eeace881.jpg)
 
-My Excellerator+Plus drive has a 5-Pin DIN socket for power input so I made one cable with a 4-Pin DIN on one end and a 5-Pin DIN on the other. This plug has been marked to make sure it doesn't get connected to anything else! I would hate to think what would happen if it were to get plugged into a Commodore 64 power socket or worse, the AV output socket! 
+My Excelerator+Plus drive has a 5-Pin DIN socket for power input so I made one cable with a 4-Pin DIN on one end and a 5-Pin DIN on the other. This plug has been marked to make sure it doesn't get connected to anything else! I would hate to think what would happen if it were to get plugged into a Commodore 64 power socket or worse, the AV output socket! 
 
 Shorter cables from the distribtion board to the floppy drives will give you less voltage drop. The 5V output on the RD-65A can be set slightly higher to compensate for this.
 
