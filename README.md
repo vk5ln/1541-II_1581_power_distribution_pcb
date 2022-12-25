@@ -13,7 +13,7 @@ in your situation. I'm happy to metal enclosures but some prefer plastic.
 
 For the optional Power LED header, resistors and LEDs/cabling, any convenient 
 parts can be used so I've not specified exact part numbers. The PCB pads suit
-0805 size SMD resistors.
+0805 (2012 metric) SMD resistors.
 
 R1 300R 0805 (2012 metric)
 
