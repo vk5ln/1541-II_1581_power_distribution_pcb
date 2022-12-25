@@ -16,7 +16,9 @@ parts can be used so I've not specified exact part numbers. The PCB pads suit
 0805 size SMD resistors.
 
 R1 300R 0805 (2012 metric)
+
 R2 1K 0805 (2012 metric)
+
 3 Way 2.54mm header
 
 I like using the metal cased DIN plugs but feel free to use whatever you can source. The 
@@ -32,8 +34,11 @@ To connect to a 1541-II or 1581 you need to make 1 to 1 cables with three core c
 I used 0.75mm cable that is commonly used for AC Mains appliances here in Australia.
 
 Pin 1 - 5V
+
 Pin 2 - GND
+
 Pin 3 - N/C
+
 Pin 4 - 12V
 
 My Excellerator+PLus drive has a 5-Pin DIN socket for power input so I made one cable with
