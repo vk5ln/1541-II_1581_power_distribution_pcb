@@ -50,7 +50,7 @@ I used a MeanWell RD-65A Power supply but you can use any 12V/5V Power Supply th
 supply at least 5V at 4A and 12V at 4A. Commodore 1581 Drives do not need 12V and if you
 only use 1581 drives you can get away with using a single 5V Power Supply with sufficent
 current capacity. A surplus ATX power supply could be used, this has the advantage of the AC
-input of the power supply being safely inside an exiting metal enclosure. 
+input of the power supply being safely inside an existing metal enclosure. 
 
 The MeanWell RD-65A has AC input terminals which are exposed and could be accessed by curious fingers. 
 It is intended to be used within another enclosure. The photos I show of my test setup sitting on a desk 
