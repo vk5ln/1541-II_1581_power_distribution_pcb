@@ -27,9 +27,6 @@ Switchcraft DIN plugs are quite expensive compared to those with plastic covers.
 RS has their own branded metal cased DIN plugs that both look quite good and are cheaper 
 than the Switchcraft DIN plugs.
 
-Shorter cables from the distribtion board to the floppy drives will give you less voltage 
-drop. The 5V output on the RD-65A can be set slightly higher to compensate for this.
-
 To connect to a 1541-II or 1581 you need to make 1 to 1 cables with three core cable.
 I used 0.75mm cable that is commonly used for AC Mains appliances here in Australia.
 
@@ -45,6 +42,9 @@ My Excellerator+Plus drive has a 5-Pin DIN socket for power input so I made one 
 a 4-Pin DIN on one end and a 5-Pin DIN on the other. This plug has been marked to make sure
 it doesn't get connected to anything else! I would hate to think what would happen if it were
 to get plugged into a Commodore 64 power socket or worse, the AV output socket! 
+
+Shorter cables from the distribtion board to the floppy drives will give you less voltage 
+drop. The 5V output on the RD-65A can be set slightly higher to compensate for this.
 
 I used a MeanWell RD-65A Power supply but you can use any 12V/5V Power Supply that can 
 supply at least 5V at 4A and 12V at 4A. Commodore 1581 Drives do not need 12V and if you
