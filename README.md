@@ -72,5 +72,5 @@ Excelerator+Plus
 12V - Idle 0.29A - Active 0.36A
 5V - Idle 0.56A - Active 0.56A
 
-If I was reading/writing from all four drives at once (which is unlikely) I need a maximum of 1.16A @12V and just over 2A @ 5V... well within what a Meanwell RD-65A can handle.
+If I was reading/writing from all four drives at once (which is unlikely) I need a maximum of 1.16A @12V and just over 2A @ 5V... well within what a Meanwell RD-65A can supply.
 
