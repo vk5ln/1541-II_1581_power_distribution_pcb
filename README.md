@@ -41,7 +41,7 @@ Pin 3 - N/C
 
 Pin 4 - 12V
 
-My Excellerator+PLus drive has a 5-Pin DIN socket for power input so I made one cable with
+My Excellerator+Plus drive has a 5-Pin DIN socket for power input so I made one cable with
 a 4-Pin DIN on one end and a 5-Pin DIN on the other. This plug has been marked to make sure
 it doesn't get connected to anything else! I would hate to think what would happen if it were
 to get plugged into a Commodore 64 power socket or worse, the AV output socket! 
@@ -52,9 +52,10 @@ only use 1581 drives you can get away with using a single 5V Power Supply with s
 current capacity. A surplus ATX power supply could be used, this has the advantage of the AC
 input of the power supply being safely inside an exiting metal enclosure. 
 
-The MeanWell RD-65A has AC input terminals which are exposed and can be accessed by curious fingers. 
+The MeanWell RD-65A has AC input terminals which are exposed and could be accessed by curious fingers. 
 It is intended to be used within another enclosure. The photos I show of my test setup sitting on a desk 
-is NOT a recommended permanent solution. 
+is NOT a recommended permanent solution. If you are not comfortable working with AC power wiring please
+find someone who is! 
 
 The 5V and 12V fuse values can be varied to suit your set up. While designing the PCB I sat down and 
 measured the current consumption on each of my floppy disk drives.
