@@ -5,7 +5,7 @@ Allows up to four 4-pin DIN Commodore Floppy Disk Drives to use a single Power S
 ![IMG_20221224_080939-1920](https://user-images.githubusercontent.com/9030553/209482304-8f4bd88b-01ae-430a-8a50-154f14c88ff4.jpg)
 
 I created this PCB to eliminate the growing pile of power supplies needed to
-power my stack of Commodore Floppy Disk Drives. Feeing up three AC power outlets is
+power my stack of Commodore Floppy Disk Drives. Freeing up three AC power outlets is
 also a bonus!
 
 I have not specified any particular enclosure as what suits me may not be ideal 
