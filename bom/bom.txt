@@ -21,7 +21,7 @@ Mouser
 502-09BL4MX - Switchcraft 4-Pin DIN Plug 
 
 RS Components
-491-134 RS PRO 4 Pole Din Plug, 1A, 100 V ac, Male, Cable Mount
+491-134 - RS PRO 4 Pole Din Plug, 1A, 100 V ac, Male, Cable Mount
 
 Meanwell RD-65A Power Supply
 Mouser
