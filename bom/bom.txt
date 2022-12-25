@@ -1,0 +1,31 @@
+Mouser
+490-SDS-40J - x4 SDS-40J 4-Pin DIN Socket
+576-04450001N - x4 Fuse Clip PCB
+490-TB006-508-04BE - x1 4-Way Terminal Block 5.08mm
+
+Digikey
+CP-2340-ND - x4 SDS-40J 4-Pin DIN Socket
+F6083-ND - x4 Fuse Clip PCB
+102-6193-ND - x1 4 Way Terminal Block 5.08mm
+
+Optional power LED parts
+R1 300R 0805 (2012 metric) (5V Rail)
+R2 1K 0805 (2012 metric) (12V Rail)
+3 Way 2.54mm header
+
+Metal DIN Plugs
+Digikey
+SC1607-ND - Switchcraft 4-Pin DIN Plug
+
+Mouser
+502-09BL4MX - Switchcraft 4-Pin DIN Plug 
+
+RS Components
+491-134 RS PRO 4 Pole Din Plug, 1A, 100 V ac, Male, Cable Mount
+
+Meanwell RD-65A Power Supply
+Mouser
+709-RD65A - x1 RD-65A Meanwell Power Supply
+
+Digikey
+1866-3987-ND - x1 RD-65A Meanwell Power Supply
