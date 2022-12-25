@@ -25,7 +25,7 @@ RS Components
 
 Meanwell RD-65A Power Supply
 Mouser
-709-RD65A - x1 RD-65A Meanwell Power Supply
+709-RD65A - RD-65A Meanwell Power Supply
 
 Digikey
-1866-3987-ND - x1 RD-65A Meanwell Power Supply
+1866-3987-ND - RD-65A Meanwell Power Supply
