@@ -44,9 +44,14 @@ to get plugged into a Commodore 64 power socket or worse, the AV output socket!
 I used a MeanWell RD-65A Power supply but you can use any 12V/5V Power Supply that can 
 supply at least 5V at 4A and 12V at 4A. Commodore 1581 Drives do not need 12V and if you
 only use 1581 drives you can get away with using a single 5V Power Supply with sufficent
-current capacity. A surplus ATX power supply could be used. I'll leave this up to you.
+current capacity. A surplus ATX power supply could be used, this has the advantage of the AC
+input of the power supply being safely inside an exiting metal enclosure. 
 
-The fuse values can be varied to suit your set up. While designing the PCB I sat down and 
+The MeanWell RD-65A has AC input terminals which are exposed and can be accessed by curious fingers. 
+It is intended to be used within another enclosure. The photos I show of my test setup sitting on a desk 
+is NOT a recommended permanent solution. 
+
+The 5V and 12V fuse values can be varied to suit your set up. While designing the PCB I sat down and 
 measured the current consumption on each of my floppy disk drives.
 
 1541-II 
@@ -62,5 +67,4 @@ Excelerator+Plus
 5V - Idle 0.56A - Active 0.56A
 
 If I was reading/writing from all four drives at once (which is unlikely) I need a maximum of 1.16A @12V and just over 2A @ 5V... well within what a Meanwell RD-65A can handle.
-
 
