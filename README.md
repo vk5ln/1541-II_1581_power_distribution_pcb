@@ -35,11 +35,21 @@ The pins in a DIN plug aren't really suited to use cables with larger conductors
 
 ![P1030955-1920](https://user-images.githubusercontent.com/9030553/209484639-f71d73de-a762-4fe9-9205-35d2eeace881.jpg)
 
-My Excelerator+Plus drive has a 5-Pin DIN socket for power input so I made one cable with a 4-Pin DIN on one end and a 5-Pin DIN on the other. This plug has been marked to make sure it doesn't get connected to anything else! I would hate to think what would happen if it were to get plugged into a Commodore 64 power socket or worse, the AV output socket! 
+My Excelerator+Plus drive has a 5-Pin DIN socket for power input so I made one cable with a 4-Pin DIN on one end and a 5-Pin DIN on the other. This plug has been marked to make sure it doesn't get connected to anything else! I would hate to think what would happen if it were to get plugged into a Commodore 64 power socket or worse, the AV output socket! The Excelerator+Plus 5-Pin DIN power socket details are shown here;
 
-Shorter cables from the distribtion board to the floppy drives will give you less voltage drop. The 5V output on the RD-65A can be set slightly higher to compensate for this.
+Pin 1 - 5V
+
+Pin 2 - N/C
+
+Pin 3 - 12V
+
+Pin 4 - GND
+
+Pin 5 - GND
 
 I used a MeanWell RD-65A Power supply but you can use any 12V/5V Power Supply that can supply at least 5V at 4A and 12V at 4A. Commodore 1581 Drives do not need 12V and if you only use 1581 drives you can get away with using a single 5V Power Supply with sufficent current capacity. A surplus ATX power supply could be used, this has the advantage of the AC input of the power supply being safely inside an existing metal enclosure. 
+
+Shorter cables from the distribtion board to the floppy drives will give you less voltage drop. The 5V output on the MeanWell RD-65A can be set slightly higher to compensate for this.
 
 The MeanWell RD-65A has AC input terminals which are exposed and could be accessed by curious fingers. It is intended to be used within another enclosure. The photos I show of my test setup sitting on a desk is NOT a recommended permanent solution. If you are not comfortable working with AC power wiring please
 find someone who is! 
