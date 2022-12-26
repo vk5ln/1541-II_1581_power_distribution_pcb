@@ -1,4 +1,4 @@
-# 1541-II-1581-power-distribution-pcb
+# 1541-II_1581_power_distribution_pcb
 
 Allows up to four 4-pin DIN Commodore Floppy Disk Drives to use a single Power Supply
 
