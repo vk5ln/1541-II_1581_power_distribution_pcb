@@ -6,7 +6,7 @@ Allows up to four 4-pin DIN Commodore Floppy Disk Drives to use a single Power S
 
 I created this PCB to eliminate the growing pile of power supplies needed to power my stack of Commodore Floppy Disk Drives. Freeing up three AC power outlets is also a bonus!
 
-I have not specified any particular enclosure as what suits me may not be ideal in your situation. I'm happy to metal enclosures but some prefer plastic.
+I have not specified any particular enclosure as what suits me may not be ideal in your situation. I'm happy to work with and use metal enclosures but some prefer plastic.
 
 For the optional Power LED header, resistors and LEDs/cabling, any convenient parts can be used so I've not specified exact part numbers. The PCB pads suit
 0805 (2012 metric) SMD resistors.
